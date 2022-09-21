@@ -10,6 +10,8 @@ Article Templates: https://github.com/iamromeo/worldanvil-templates/tree/master/
 
 Style rules: https://www.worldanvil.com/w/WorldAnvilCodex/a/css
 
+World Anvil Themes: https://www.worldanvil.com/w/WorldAnvilCodex/a/theme-references
+
 ## World Anvil Hosted Background Images
 If you just want to swap the background image to another one of world anvil's hosted backgrounds, here's a selection.
 
@@ -39,3 +41,15 @@ URL: https://wa-cdn.nyc3.cdn.digitaloceanspaces.com/assets/themes/trek/images/ba
 
 ![](https://wa-cdn.nyc3.cdn.digitaloceanspaces.com/assets/themes/forest/images/page-background.png)
 URL: https://wa-cdn.nyc3.cdn.digitaloceanspaces.com/assets/themes/forest/images/page-background.png
+
+![](https://wa-cdn.nyc3.cdn.digitaloceanspaces.com/assets/themes/deadhouse/images/background.jpg)
+URL: https://wa-cdn.nyc3.cdn.digitaloceanspaces.com/assets/themes/deadhouse/images/background.jpg
+
+![](https://wa-cdn.nyc3.cdn.digitaloceanspaces.com/assets/themes/darkly/images/articlebackground.png)
+URL: https://wa-cdn.nyc3.cdn.digitaloceanspaces.com/assets/themes/darkly/images/articlebackground.png
+
+![](https://www.worldanvil.com/themes/deadhouse/images/background.jpg)
+URL: https://www.worldanvil.com/themes/deadhouse/images/background.jpg
+
+![](https://www.worldanvil.com/images/bg-dark.jpg)
+URL: https://www.worldanvil.com/images/bg-dark.jpg

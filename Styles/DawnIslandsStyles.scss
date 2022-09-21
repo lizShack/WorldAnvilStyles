@@ -1,0 +1,44 @@
+﻿
+/** Styles for the Dawn Islands world*/
+/*Import fonts*/
+@import url("https://fonts.googleapis.com/css2?family=Satisfy&display=swap");
+
+@font-face {
+    src: url(https://fonts.gstatic.com/s/metamorphous/v7/Wnz8HA03aAXcC39ZEX5y133EOyqs.woff2);
+}
+
+@font-face {
+    src: url(https://fonts.gstatic.com/s/crimsontext/v8/wlp2gwHKFkZgtmSR3NB0oRJfbwhT.woff2);
+}
+
+@font-face {
+    src: url(https://fonts.gstatic.com/s/amarante/v7/xMQXuF1KTa6EvGx9bp-wAXs.woff2);
+}
+
+@font-face {
+    src: url(https://fonts.gstatic.com/s/macondoswashcaps/v6/6NUL8EaAJgGKZA7lpt941Z9s6ZYgDq6-fUAb.woff2);
+}
+
+.user-css-presentation {
+    background-image: url(https://www.worldanvil.com/themes/deadhouse/images/background.jpg);
+}
+
+.user-css {
+    --fontHeader: Cinzel;
+    --hf1: Cinzel;
+    --hf2: Amarante;
+    --hf3: Metamorphous;
+    --hf4: Metamorphous;
+    --dropcapfont: Solbera Imitation !important;
+
+    h1 {
+        text-transform: capitalize;
+        font-variant: small-caps;
+    }
+}
+
+.user-css a .card-title {
+    font-family: Satisfy;
+}
+
+1200x300

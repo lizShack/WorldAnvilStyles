@@ -1,0 +1,93 @@
+﻿.user-css-presentation {
+
+    .page {
+        box-shadow: 1px 1px 80px 5px var(--ember-black);
+    }
+
+    .page-article img {
+        border-top-left-radius: initial;
+        border-top-right-radius: initial;
+        border-bottom-left-radius: initial;
+        border-bottom-right-radius: initial;
+    }
+
+    table.table.table-striped {
+        $table-striped-background-color: white;
+        $table-striped-font-color: #242527;
+        $table-striped-border-color: #d0cac5;
+
+        margin-top: 10px !important;
+        background: $table-striped-background-color;
+        border: 1px solid #edeae8;
+
+        th {
+            border: 1px solid #edeae8;
+            font-weight: bold;
+            padding: 20px;
+            background-color: $table-striped-background-color;
+            color: $table-striped-font-color;
+            border-bottom: 3px solid $table-striped-border-color;
+        }
+
+        tr {
+            :hover {
+                background-color: #f0eeed !important;
+            }
+
+            :nth-child(odd) {
+                background-color: #faf8f7 !important;
+            }
+
+            :nth-child(even) {
+                background-color: #fff !important;
+            }
+
+            td {
+                background-color: transparent;
+                border: 1px solid #edeae8;
+                padding: 5px 20px;
+            }
+        }
+    }
+}
+
+.user-css, .user-css-presentation {
+
+    .card.card-tabs {
+        background: transparent;
+        border: 0;
+
+        .card-tabs-content {
+            border: solid 1px #dee2e6;
+            background-color: #fff;
+            margin-top: -1px;
+            border-radius: .25em;
+        }
+    }
+    blockquote {
+        border-style: solid;
+        border-width: 11px;
+        border-image: url(https://www.worldanvil.com/uploads/images/23554eeb2d8d16079baa23497155e0cd.png) 11;
+        border-image-border-image-outset: 0;
+        border-image-outset: 9px 0;
+        box-shadow: 1px 4px 14px #888;
+        border-radius: 0;
+    }
+
+    .visibility-toggler-opaque {
+        opacity: 1;
+        border: 1px #3f51b5 dotted;
+        padding: 0 5px;
+        color: black;
+        margin: 0 -5px;
+    }
+
+
+    @media (min-width: 768px) {
+        .sidebar {
+            float: right !important;
+            margin-left: 1.5rem !important;
+            width: 25% !important;
+        }
+    }
+}
